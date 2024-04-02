@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{background-color:#f5e8db;}
+
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+    border: 1px solid black;   
+}
+
+img {
+    width: 200px;   
+}
+
+.navBar{
+display:flex;
+justify-content:space-evenly;  
+}
+
+.Ludwig{
+  display:flex;
+  justify-content:center ;
+  border-style: 100%;
+  border-top: 50px;
+}
+
+.facts{
+  display:flex;
+  justify-content:center
+}
